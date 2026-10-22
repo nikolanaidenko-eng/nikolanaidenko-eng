@@ -1,4 +1,4 @@
-### Hi, I'm Mykola 👋
+### Hi, I'm Nikola 👋
 
 I build **Telegram bots, websites and automations for small businesses** — order intake,
 bookings, reminders, CRM, Google Sheets — usually live in 24–48 hours.
