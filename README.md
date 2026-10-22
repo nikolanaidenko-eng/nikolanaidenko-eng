@@ -11,7 +11,7 @@ diabetes, and I made **Clouding Bar** so that working with Claude takes less of 
 
 #### ☁️ Clouding Bar — Claude Code at a glance on your Mac
 
-<img src="clouding-bar.png" width="720" alt="Clouding Bar's pill: which chat, the 5-hour limit, the context, the model, lines, branch">
+https://github.com/user-attachments/assets/3f0a6442-497e-434e-b389-f8c7f2931a65
 
 A macOS menu bar app for [Claude Code](https://code.claude.com) and Cowork: your limits and
 context on the Touch Bar, in a floating pill or in the notch; Claude's permissions and
