@@ -1,10 +1,12 @@
 ### Hi, I'm Nikola 👋
 
-I build **Telegram bots, websites and automations for small businesses** — order intake,
-bookings, reminders, CRM, Google Sheets — usually live in 24–48 hours.
+I build **Telegram/WhatsApp... bots, websites and automations for businesses** — order intake,
+bookings,CRM, Google Sheets and a lot more — usually live in 24–48 hours.
 → **[orderme.shop](https://orderme.shop)**
 
-Alongside, I'm building **[DiaRoute](https://diaroute.com)**, an app for life with Type 1
+My main project is **[DiaRoute](https://diaroute.com)**, an app for life with Type 1,
+it helps me to live and not think much of diabetes. The goal is to help other people with the 
+same problem and make diabetes not just a sickness, but a way/reason to rebuild your diet and make your life better. 
 diabetes, and I made **Clouding Bar** so that working with Claude takes less of my attention.
 
 ---
