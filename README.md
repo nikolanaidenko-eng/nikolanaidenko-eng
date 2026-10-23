@@ -6,8 +6,8 @@ bookings,CRM, Google Sheets and a lot more — usually live in 24–48 hours.
 
 My main project is **[DiaRoute](https://diaroute.com)**, an app for life with Type 1,
 it helps me to live and not think much of diabetes. The goal is to help other people with the 
-same problem and make diabetes not just a sickness, but a way/reason to rebuild your diet and make your life better. 
-diabetes, and I made **Clouding Bar** so that working with Claude takes less of my attention.
+same problem and make diabetes not just a sickness, but a way/reason to rebuild your diet and make your life better
+and I made **Clouding Bar** so that working with Claude takes less of my attention.
 
 ---
 
