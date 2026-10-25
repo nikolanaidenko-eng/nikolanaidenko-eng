@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/ac4b3e46-2d3a-4ece-a3a6-631e319ae3c9
+
 ### Hi, I'm Nikola 👋
 
 I build **Telegram/WhatsApp... bots, websites and automations for businesses** — order intake,
