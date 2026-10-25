@@ -1,7 +1,3 @@
-
-
-https://github.com/user-attachments/assets/ac4b3e46-2d3a-4ece-a3a6-631e319ae3c9
-
 ### Hi, I'm Nikola 👋
 
 I build **Telegram/WhatsApp... bots, websites and automations for businesses** — order intake,
@@ -17,7 +13,7 @@ and I made **Clouding Bar** so that working with Claude takes less of my attenti
 
 #### ☁️ Clouding Bar — Claude Code at a glance on your Mac
 
-https://github.com/user-attachments/assets/3f0a6442-497e-434e-b389-f8c7f2931a65
+https://github.com/user-attachments/assets/ac4b3e46-2d3a-4ece-a3a6-631e319ae3c9
 
 A macOS menu bar app for [Claude Code](https://code.claude.com) and Cowork: your limits and
 context on the Touch Bar, in a floating pill or in the notch; Claude's permissions and
