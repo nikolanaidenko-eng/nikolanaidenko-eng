@@ -22,7 +22,8 @@ build this app. You can get it as an app, as a plugin, or through the link below
 
 A macOS menu bar app for [Claude Code](https://code.claude.com) and Cowork: your limits and
 context on the Touch Bar, in a floating pill or in the notch; Claude's permissions and
-questions answered right there, without going back to the chat; dictation, your own commands, stats.
+questions answered right there, without going back to the chat; a screenshot of any area or a dropped
+file sent straight to the chat, with no saving and dragging; dictation, your own commands, stats.
 It started as a tool for my own day with several AI chats at once.
 → [clouding-bar](https://github.com/nikolanaidenko-eng/clouding-bar)
 
