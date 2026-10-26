@@ -1,20 +1,24 @@
 ### Hi, I'm Nikola 👋
 
-I build **Telegram/WhatsApp... bots, websites and automations for businesses** — order intake,
-bookings,CRM, Google Sheets and a lot more — usually live in 24–48 hours.
+I build bots, websites and automations for businesses** — order intake,
+bookings,CRM, Google Sheets and a lot more — live in 24–48 hours.
 → **[orderme.shop](https://orderme.shop)**
 
-My main project is **[DiaRoute](https://diaroute.com)**, an app for life with Type 1,
-it helps me to live and not think much of diabetes. The goal is to help other people with the 
+My main project is **[DiaRoute](https://diaroute.com)**, an app for people with Type 1 diabetes.
+It helps me to live and not think much of diabetes. The goal is to help other people with the 
 same problem and make diabetes not just a sickness, but a way/reason to rebuild your diet and make your life better
-and I made **Clouding Bar** so that working with Claude takes less of my attention.
+and as a side project I made **Clouding Bar** so that working with AI takes less of my attention.
 
 ---
 
-#### ☁️ Clouding Bar — Claude Code at a glance on your Mac
+#### ☁️ Clouding Bar — Claude Code/Cowork at a glance on your Mac
 
 https://github.com/user-attachments/assets/ac4b3e46-2d3a-4ece-a3a6-631e319ae3c9
 
+Touch bar seems preety useless for many people, including me, i work more and more with AI every day, 
+sometimes 4-5 sessions at a time, so i needed a way to controle it and the idea to make the touch bar that 
+i really like on one side, but hate because of it’s so nonsense useful made me do this app, you can download
+it as an app, a plugin or through the link below
 A macOS menu bar app for [Claude Code](https://code.claude.com) and Cowork: your limits and
 context on the Touch Bar, in a floating pill or in the notch; Claude's permissions and
 questions answered right there, without going back to the chat; dictation, templates, stats.
@@ -28,8 +32,8 @@ understands diabetes. Built for Type 1. In beta. → [diaroute.com](https://diar
 
 #### 🤖 Bots & automation for small business
 
-Telegram bots and Mini Apps that take orders and bookings, remind clients, answer questions
-with AI and keep everything in a spreadsheet. Try a demo: [@orderfrommebot](https://t.me/orderfrommebot).
+Telegram/whatsapp/inst bots/automatiation and Mini Apps that take orders and bookings, remind clients, answer questions
+with AI and keep everything in a spreadsheet or connected straight to your CRM... Try a demo: [@orderfrommebot](https://t.me/orderfrommebot).
 → [orderme.shop](https://orderme.shop)
 
 ---
