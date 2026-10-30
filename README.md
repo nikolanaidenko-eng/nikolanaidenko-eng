@@ -18,7 +18,7 @@ As a side project, I made **Clouding Bar** so that working with AI takes less of
 
 #### ☁️ Clouding Bar — Claude Code and Cowork at a glance on your Mac
 
-https://github.com/user-attachments/assets/ac4b3e46-2d3a-4ece-a3a6-631e319ae3c9](https://github.com/user-attachments/assets/a7a5c310-8330-436a-8546-a76748b8b326](https://github.com/user-attachments/assets/d450095b-4304-4239-818a-ae4d7ebf5af8
+https://github.com/user-attachments/assets/f32d6303-e93c-4056-9749-47e9faaaa3a4
 
 
 The Touch Bar seems pretty useless to many people, me included. I work with AI more and more every day,
