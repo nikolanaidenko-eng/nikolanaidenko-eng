@@ -24,7 +24,7 @@ https://github.com/user-attachments/assets/ac4b3e46-2d3a-4ece-a3a6-631e319ae3c9]
 The Touch Bar seems pretty useless to many people, me included. I work with AI more and more every day,
 sometimes in 4–5 sessions at a time, so I needed a way to keep them under control. I like the Touch Bar on
 one hand and hate it on the other for being so pointless, and the idea of making it useful is what made me
-build this app. You can get it as an app, as a plugin, or through the link below.
+build this app. You can get it as an app, or through the link below.
 
 A macOS menu bar app for [Claude Code](https://code.claude.com) and Cowork: your limits and
 context on the Touch Bar, in a floating pill or in the notch; Claude's permissions and
